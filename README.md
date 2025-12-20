@@ -50,11 +50,18 @@ Detailed visual insights can be explored through the Power BI dashboard included
 
 ## Repository Structure
 <pre>
-US-Traffic-Accidents-Analysiz
+US-Traffic-Accidents-Analysis
 ├── README.md
+│
+├── SQLQueries
+│
+├── Visualization
+│   └── Excel Chart.xlsx
+│
 ├── Project-I DashBoard.pbix
-├── SQL Findings.sql
-├── Project-I PPT- Presentation.pptx
+│
+└── Presentation
+    └── Project_Presentation.pptx
 </pre>
   
 ## How to Use
