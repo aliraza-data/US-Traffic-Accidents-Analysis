@@ -57,8 +57,7 @@ US-Traffic-Accidents-Analysis
 │
 ├── Visualization
 │   └── Excel Chart.xlsx
-│
-├── Project-I DashBoard.pbix
+│   └── Project-I DashBoard.pbix
 │
 └── Presentation
     └── Project_Presentation.pptx
