@@ -59,7 +59,7 @@ US-Traffic-Accidents-Analysiz
 css
 Copy code
 
-## 🚀 How to Use
+## How to Use
 
 1. Clone the repository:
 git clone https://github.com/aliraza-data/US-Traffic-Accidents-Analysiz.git
