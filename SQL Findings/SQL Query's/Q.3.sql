@@ -1,0 +1,7 @@
+SELECT 
+    State,
+    COUNT(*) AS total_accidents
+FROM us_accidents_march23_sampled_500k
+WHERE YEAR(Start_Time) < 2023
+GROUP BY State
+ORDER BY total_accidents DESC
