@@ -49,23 +49,18 @@ Some key insights identified during the analysis include:
 Detailed visual insights can be explored through the Power BI dashboard included in this repository.
 
 ## Repository Structure
-
+<pre>
 US-Traffic-Accidents-Analysiz
 ├── README.md
 ├── Project-I DashBoard.pbix
 ├── SQL Findings.sql
 ├── Project-I PPT- Presentation.pptx
-
-css
-Copy code
-
+<pre>
+  
 ## How to Use
 
 1. Clone the repository:
 git clone https://github.com/aliraza-data/US-Traffic-Accidents-Analysiz.git
-
-pgsql
-Copy code
 2. Download the dataset from Kaggle using the provided link.
 3. Open the Power BI (.pbix) file in Power BI Desktop.
 4. Load the dataset and explore the dashboards to view insights.
